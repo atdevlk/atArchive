@@ -11,3 +11,9 @@ This command-line tool tests the strength of password-protected ZIP and 7z archi
   ```
   pkg update && pkg upgrade
   ```
+<p>Step 2</p>
+
+```
+pkg install zip && pkg install p7zip
+```
+

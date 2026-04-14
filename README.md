@@ -4,7 +4,7 @@ This command-line tool tests the strength of password-protected ZIP and 7z archi
 
 
 
-<h2>Usage: </h2>
+<h2>installation: </h2>
 
 <p>Step 1</p>
 
@@ -16,4 +16,20 @@ This command-line tool tests the strength of password-protected ZIP and 7z archi
 ```
 pkg install zip && pkg install p7zip
 ```
+<p>Step 3</p>
 
+```
+git clone https://github.com/atdevlk/atArchive.git
+```
+<h2>Usage: </h2>
+
+<p>Start</p>
+
+```
+./start
+```
+<p>Next</p>
+
+```
+help
+```

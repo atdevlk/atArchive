@@ -23,6 +23,16 @@ git clone https://github.com/atdevlk/atArchive.git
 ```
 <h2>Usage: </h2>
 
+<p>Folder</p>
+
+```
+cd at-Archive
+```
+<p>Permission</p>
+
+```
+chmod +x *
+```
 <p>Start</p>
 
 ```
